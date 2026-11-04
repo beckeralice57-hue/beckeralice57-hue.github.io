@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hermes - application privée</title>
+</head>
+<body style="max-width:680px;margin:40px auto;padding:0 16px;font-family:Arial,sans-serif;line-height:1.5">
+  <h1>Hermes</h1>
+  <p>Hermes est une application privée, réservée à l'usage personnel de sa propriétaire. Elle n'est pas proposée au public.</p>
+  <p>Elle aide à suivre la correspondance professionnelle : lecture d'e-mails et gestion de fichiers créés par l'application dans Google Drive.</p>
+
+  <h2 id="confidentialite">Règles de confidentialité</h2>
+  <ul>
+    <li><strong>Données utilisées :</strong> e-mails du compte Google de la propriétaire, en lecture seule, et fichiers Google Drive créés ou ouverts avec l'application.</li>
+    <li><strong>Finalité :</strong> uniquement le suivi de la correspondance professionnelle de la propriétaire.</li>
+    <li><strong>Traitement :</strong> l'application fonctionne sur un serveur privé. Les contenus nécessaires à une tâche sont transmis au fournisseur d'intelligence artificielle Anthropic pour être traités.</li>
+    <li><strong>Partage :</strong> les données ne sont ni vendues, ni utilisées à des fins publicitaires, ni partagées avec d'autres tiers sans l'accord explicite de la propriétaire.</li>
+    <li><strong>Révocation :</strong> l'accès peut être retiré à tout moment depuis les paramètres du compte Google.</li>
+    <li><strong>Google :</strong> l'utilisation des données reçues des API Google respecte les règles Google API Services User Data Policy, y compris les exigences d'utilisation limitée.</li>
+  </ul>
+  <p>Contact : dr.becker.alice@gmail.com</p>
+</body>
+</html>
